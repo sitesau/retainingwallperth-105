@@ -1,0 +1,22 @@
+{
+  "wheel_id": 490,
+  "structure": "umbrella",
+  "slug": "retainingwallperth-105",
+  "project": "retaining-wall-builders-perth-common-mistakes-47aaa6db2909e093c",
+  "parent_t1_ref": "retainingwallperth-152",
+  "node_role": "feeder",
+  "money_target": "retainingwallperth.au",
+  "primary_kw": "retaining wall builders perth common mistakes",
+  "intended_url": "https://sitesau.github.io/retainingwallperth-105/",
+  "tier": "T2",
+  "writeback_nonce": "7cd6f81318d7fa1c",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/retaining-wall-builders-perth-0141d44226d945f2ba4a7796b76890e2b/",
+      "anchor": "retaining wall builders perth",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "exact"
+    }
+  ]
+}
